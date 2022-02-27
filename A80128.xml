@@ -1,0 +1,224 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Collections of notes taken at the Kings Tryall, at Westminster Hall, on Tuesday last, Janua. 23. 1648. Also a paper of instructions intercepted, comming from Scotland, to the Scots Commissioners, concerning the King.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80128</idno>
+            <idno type="STC">Wing C5219</idno>
+            <idno type="STC">Thomason E539_4</idno>
+            <idno type="STC">ESTC R205696</idno>
+            <idno type="EEBO-CITATION">99865000</idno>
+            <idno type="PROQUEST">99865000</idno>
+            <idno type="VID">164888</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80128)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 164888)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 84:E539[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Collections of notes taken at the Kings Tryall, at Westminster Hall, on Tuesday last, Janua. 23. 1648. Also a paper of instructions intercepted, comming from Scotland, to the Scots Commissioners, concerning the King.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Robert Ibbitson in Smithfield near the Queens Head Tavern,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648. [i.e. 1649]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:164888:1" rendition="simple:additions"/>
+            <head>Collections of Notes Taken at the KINGS Tryall, at Weſtminſter Hall, On Tueſday laſt, <hi>Janua.</hi> 23. 1648.</head>
+            <head>Alſo a paper of Inſtructions intercep<g ref="char:EOLhyphen"/>ted, comming from <hi>Scotland,</hi> to the <hi>Scots</hi> Commiſſioners, concerning the KING.</head>
+            <div type="trial_notes">
+               <p>
+                  <seg rend="decorInit">T</seg>He Court being met on Tueſday the 23 of January 1648. Procla<g ref="char:EOLhyphen"/>mation was made,</p>
+               <q>
+                  <p>
+                     <hi>Hoyes, &amp;c.</hi>
+                  </p>
+                  <p>
+                     <hi>All manner of perſons, that were by the laſt Court adjoyned to attend this Court, draw neer, and give your attendance: All manner of perſons are ſtrict<g ref="char:EOLhyphen"/>ly charged to keepe ſilence upon paine of impriſon<g ref="char:EOLhyphen"/>ment.</hi>
+                  </p>
+               </q>
+               <p>Then the Commiſſioners were called over 72. this day ſate, and anſwered to their names.</p>
+               <pb n="2" facs="tcp:164888:2"/>
+               <p> There was (inſtead of the Kings Armes) ſet over this high Court of Juſtice, The king<g ref="char:EOLhyphen"/>domes Armes; which is a red Croſſe in a white field.</p>
+               <p>Then the Court ſent Serjeant <hi>Dendy</hi> to bid thoſe that had charge of the King, to bring him to the Barre, and returning, the Sergeant tooke the Mace, and met him at the Staires going to the Court, and the King being come to the Barre, he looked about him, and view<g ref="char:EOLhyphen"/>ed the Galleries, which were full of people.</p>
+               <p>The King was this day and the day before in black; And this day his countenance was very ſad; proclamation was made,</p>
+               <q>
+                  <p>
+                     <hi>Hoyes, &amp;c.</hi>
+                  </p>
+                  <p>
+                     <hi>This Court doth ſtrictly charge and command all manner of perſons to keep ſilence, whileſt the great affaires of the Common-wealth are in hearing, upon paine of impriſonment. And the Captaine of the Guard is to take into his cuſtody all ſuch perſons as ſhall make any diſturbance to the proceedings of this Court.</hi>
+                  </p>
+               </q>
+               <p>Then Mr. <hi>Cook</hi> (one of the counſell againſt the King, who is) Solicitor Generall, moved the Court to this effect. That this was the
+<pb n="3" facs="tcp:164888:2"/> third time that the priſoner was brought be<g ref="char:EOLhyphen"/>fore them, that they had ſhewed him great favour, Declaring, that hee did on Saturday laſt, in behalf of the Commons of <hi>England,</hi> exhibit and give into this court, a charge of High Treaſon, and other high crimes, and miſdemeanors againſt him, whereof he did accuſe him in the name of the Parliament &amp; people of <hi>England,</hi> and the charge was read unto him, and his anſwer required; that he would then give no anſwer, but inſtead of anſwering, did there diſpute the authority of this high Court. That he did humbly move on Munday, that the priſoner might be deſi<g ref="char:EOLhyphen"/>red to make a poſitive anſwer, either by way of confeſſion, or negation, which if he ſhall refuſe to doe, that the matter of charge might be taken <hi>pro confeſſo,</hi> &amp; the Court would pro<g ref="char:EOLhyphen"/>ceed according to Juſtice. But he did ſtill di<g ref="char:EOLhyphen"/>ſpute your power, contemning the authority of this high Court, erected by the Commons of <hi>England</hi> in Parliament aſſembled, though he be a priſoner at the Barre, accuſed of Trea<g ref="char:EOLhyphen"/>ſon, the higheſt treaſon that ever was, That a King of <hi>England,</hi> who was intruſted with the
+<pb n="4" facs="tcp:164888:3"/> Government of the kingdome, to violate the Laws of the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>and, and yet to diſpute againſt your power, in de<g ref="char:EOLhyphen"/>fiance of the Parliament, it is very high and a great contempt.</p>
+               <p>He did alſo declare that the day before the King was pleaſed to put in a <hi>demurrer,</hi> which was over ruled by the Court; And the Juriſdiction of the Court not to be diſipated,</p>
+               <p>I doe now deſire the Court to proceed to juſtice againſt him. And that if a Priſoner will not put in his Anſwer, it is to be taken <hi>pro confeſſo,</hi> it hath beene done by Decrees: But this Court hath hitherto ſhew<g ref="char:EOLhyphen"/>ed him favour, in delaying to proceede to ſentence. As for the proofe of the Charge againſt him, there is enough upon Record by the Parliament: And yet if that will not ſatisfie, they have many witneſſes to make it good: And therefore the Solicitor generall did humbly move, (and not only himſelfe, but much innocent blood that hath been ſpilt) that juſtice may be ſpeedily done upon him.</p>
+               <p>Then the Lord Preſedent told the King, that he had heard what was ſayd and moved, declaring his con<g ref="char:EOLhyphen"/>dition, and what hath been done; and required of the King that yet he would give obedience to the Court, and acknowledge the Houſe in them, or from the Supreame Court from which they have their Au<g ref="char:EOLhyphen"/>thority; that if he would yet anſwer he might be heard: But that the Court (if he did proceede in his obſtinacy) would proceed to juſtice againſt him. And the<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> thay did then expect a poſſitive Anſwer. That in plaine Engliſh, the Court expected that he ſhould anſwer to the charge againſt him, either guilty or not guilty.</p>
+               <pb n="5" facs="tcp:164888:3"/>
+               <p> The King then made a narrative of the Treaty, which he ſaith was ſo neere concluded, from which he was taken away, and brought priſoner hither: That he is charged with the breach of his Treaty, for proceeding contrary to Law. And yet that he is preſſed to put in his Anſwer to this Court, whoſe Au<g ref="char:EOLhyphen"/>thority he approves not.</p>
+               <p>That he cannot ſubmit to it, ſaying, that it was a new way contrary to the Lawes of the kingdome. And the King ſayd, that that was the thing he ſtood upon; but as for the charge, to anſwer it, he did not weigh it of a ruſh: And he deſpiſed the Authority of the Court againe.</p>
+               <p>The Lord Preſident told the king that he was an<g ref="char:EOLhyphen"/>ſwered to other things of that nature the laſt day, But he went on and would not acknowledge the juriſdict<g ref="char:EOLhyphen"/>on of the Court then. But that the Court did now expect his poſſitive anſwer to the charge, declaring to the king, that he was not to iſſue out to any other diſ<g ref="char:EOLhyphen"/>pute, untill he had firſt given in his poſſitive anſwer to the charge. And he did further declare to the king that theſe were the final commands of the Court, who did require his poſitive anſwer now.</p>
+               <p>The king then ſpake again, pleading his relation to the people of <hi>England,</hi> whom he was ſet to rule over. And that it was hard for him that is their king to bee made exemplary, or in ſuch a caſe to acknowledge the power of that Court to try him, which he knew no preſident for, to make him examplary. And that he did not know how to doe it, and urged further the liberties of the People, and the ancient Lawes of the Kingdom. And that if they would give him time,
+<pb n="6" facs="tcp:164888:4"/> which he pleaded for, he would ſhew them reaſons why he did it.</p>
+               <p>And then argued his being a priſoner, and the in<g ref="char:EOLhyphen"/>gagement of the publicke faith of the Kingdom, in which he went very high.</p>
+               <p>But the Lord Preſident told the King that he muſt interrupt him, and that that language was ill taken.</p>
+               <p>The King deſired to be heard on in what he was ſaying.</p>
+               <p>The Lord preſident told him, that he muſt heare the Court who require his poſſitive Anſwer, And that they doe not crave it of him, but require it. Then the Clerk read a paper to the King as followeth.</p>
+               <q>
+                  <p>Charles Stuart <hi>King of</hi> England, <hi>you are here accuſed in the behalfe of the people of</hi> England <hi>of high treaſon, and other high crimes. The Court doe require you to give in your poſsitive anſwer to the ſame.</hi>
+                  </p>
+               </q>
+               <p>To this the King argued that hee had done no<g ref="char:EOLhyphen"/>thing againſt the priviledges of the Kingdome, And that he was not ſatisfied of their authority to require this of him. And that his intentions was always good to the Kingdome.</p>
+               <p>The Lord Preſident anſwered the King, That he had been three times before them, And ſtill in oppo<g ref="char:EOLhyphen"/>ſition to the Court. And as for his intentions, hee hath ſhewed them (the Lord Preſident told him) by his actions, that he had written them in bloody cha<g ref="char:EOLhyphen"/>racters.</p>
+               <p>Then the King would have gon on pleading againſt the authority of the Court, and would not give any ſatisfaction by giving an anſwer to his Charge as was deſired.</p>
+               <pb n="7" facs="tcp:164888:4"/>
+               <p> Therefore the Lord Preſident told the King that he was not to be heard further therein. And declared to the King how he had ſtood in contempt againſt the power of the Court, And that the Court will not bee ſo affronted: That they will proceed according to Juſtice and not regard the perſon of any.</p>
+               <p>And ſo the Lord Preſident did further declare alſo, that hee ſhould finde that hee is before a Court of Juſtice.</p>
+               <p>Then the King was commanded to be taken away.</p>
+               <p>After which Proclamation was made.</p>
+               <q>
+                  <p>
+                     <hi>Ho yes, &amp;c. All manner of perſons, that now have appeared, and have further to do in this Court, are to de<g ref="char:EOLhyphen"/>part hence to the Painted Chamber, to which place this Court doth adjourne, and intends to adjourn it ſelfe to this place to morrow morning.</hi>
+                  </p>
+               </q>
+               <p>After which the Cryer by order concluded ſaying.</p>
+               <q>
+                  <hi>God bleſſe the Kingdome of</hi> ENGLAND.</q>
+            </div>
+            <div type="intercepted_document">
+               <head>Inſtructions intercepted from <hi>Scotland,</hi> to their Com<g ref="char:EOLhyphen"/>miſsioners now in <hi>England.</hi>
+               </head>
+               <p n="1">1. TO uſe in your Applications the ſalve men<g ref="char:EOLhyphen"/>tioned in your Letter, that it ſeeme not to import the approbation of any violence uſed againſt the Parliament, or any Member thereof.</p>
+               <p n="2">2 That you have your Addreſſes to ſuch Lords and Commons as are our friends, and well affected, and the honeſt Party.</p>
+               <p n="3">3. That your Applications be ſo conciſe that they give no occaſion of offence.</p>
+               <p n="4">4. That nothing proceed from you juſtifying the Kings proceedings.</p>
+               <p n="5">5. Nothing in approbation of the late Engagement.</p>
+               <p n="6">
+                  <pb n="8" facs="tcp:164888:5"/> 6. Nothing which may import a breach, or give, or be a ground of new War.</p>
+               <p n="7">7. That they would delay to meddle with the Kings Perſon according to their ſeveral promiſes and Declarations at <hi>Newcaſtle</hi> and <hi>Holdenby.</hi>
+               </p>
+               <p n="8">8. If they proceed and pronounce ſentence againſt the King, that you enter your diſſent and proteſt, that this Kingdome may be free of the miſeries which in<g ref="char:EOLhyphen"/>evitably will follow thereon (without offering in your Reaſons) that Princes are exempt from Tryall and Juſtice.</p>
+               <p n="9">9. That none in this Parliament had or hath had a<g ref="char:EOLhyphen"/>ny hand in the proceedings of the Army againſt the King and Members of Parliament.</p>
+               <p n="10">10 If they proceed, then to ſhew the calamities that will follow, and how grievous it will be to the King<g ref="char:EOLhyphen"/>dome, conſidering his delivering at <hi>Newcaſtle.</hi>
+               </p>
+               <p n="12">12. If the Paper called the Peoples Agreement ſhall be paſſed and ſhall import any thing anent the proce<g ref="char:EOLhyphen"/>ſing of the Prince to the changing of the fundamental government of the Kingdome that you enter your diſ<g ref="char:EOLhyphen"/>ſent.</p>
+               <p n="12">12. That you ſhall alter theſe Inſtructions, or man<g ref="char:EOLhyphen"/>ner your truſt therein, by the advice of our friends there,</p>
+               <p n="13">13 To proſecute your laſt Inſtructions anent the Covenant and againſt Toleration.</p>
+               <p n="14">14 To ſhew that the Kings laſt Conceſſions are in<g ref="char:EOLhyphen"/>ſatisfactory to us in point of Religion.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="imprimatur">
+            <p>Imprimatur</p>
+            <closer>
+               <dateline>
+                  <date>Jan. 23. 1648.</date>
+               </dateline>
+               <signed>Theodore Jennings.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="colophon">
+            <p>London Printed by Robert Ibbi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſon in Smithfield nea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Queens head Tavern, 1648.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
